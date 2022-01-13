@@ -1,4 +1,4 @@
-## Hi, My name is Carlos Trujillo 💻  👋
+## Hi everyone, My name is Carlos Trujillo 💻  👋
 ### :large_blue_circle: I'm Frontend Developer 👨‍💻
 I’m a systems engineer who likes to build website, learn different kind of technologies related with Frontend and I try to be updated with the last of technologies. My main programming languages are: HTML, CSS, SASS and JavaScript. Also, I like to learn content related with UI & UX. 
 
