@@ -8,5 +8,5 @@ I’m a systems engineer who likes to build website, learn different kind of tec
  
 ### :large_blue_circle: Find me on:
  
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/carlostrujilloneyra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/carlostrujillo21/)
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/carlostrujilloneyra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' color='#fff' height='40'>](https://www.linkedin.com/in/carlostrujillo21/)
 
